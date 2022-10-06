@@ -1,0 +1,18 @@
+1 - conhecer com profundidade a estrategia
+	Logica porque faz funcionar?
+	Resultados, quando e como funcionou?
+	Riscos de curto prazo?	
+2 - Racional das açoes mais baratas da bolsa?
+	Resultado operacional: Reultado q a empresa tem
+		divide o lucro pelo valor q a empresa vale no mercado(valor da ação *qtd de ações)
+		obs:pl não leva em conta a divida da empresa
+3- Filtros
+	liquidez: Pouco comprada e pouco vendida
+	Sem lucro Operacional: Está devendo (Sem bancos e seguradoras)
+	Tirar empresas que estão na justiça	
+4investe site
+	margin ebit
+	evebit
+	dividend yeld
+	volume financeiro
+	

@@ -11,7 +11,7 @@ print(dados)
 
 for i in range(len(dados)):
     link = "https://www.google.com.br/search?q={}".format(dados[i])
-    print(link)
+    #print(link)
 
     req = Request(link, headers={
             'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)'
@@ -26,8 +26,9 @@ for i in range(len(dados)):
         for item in soup.find_all('div', attrs={'class': 'wGt0Bc'}):  # dbsr
             valor = (item.find('span', attrs={'class': 'IsqQVc NprOob wT3VGc'}))
             valor = valor.text
-            print(valor)
+            #print(valor)
             preco.append(valor)
+print(preco)
 
 
 
